@@ -10,11 +10,11 @@
 <a href="#"><img title="Rudhra" src="https://img.shields.io/badge/Rudhra-lime?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/prince-rudh"><img title="Author" src="https://img.shields.io/badge/Author-prince-rudh/Rudhra?color=lime&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/ASWINMATRIX"><img title="Author" src="https://img.shields.io/badge/Author-ASWINMATRIX/Rudhra?color=lime&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/prince-rudh">Prince-Rudh</a> to make it public
+Project created by <a href="https://github.com/ASWINMATRIX">ASWINMATRIX</a> to make it public
     <br>
        | © |
         Reserved |
@@ -28,7 +28,7 @@ Project created by <a href="https://github.com/prince-rudh">Prince-Rudh</a> to m
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@PrinceRudh/Rudhra-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prince-rudh/Rudhra2.0)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ASWINMATRIX/evamwol-v4.0)
      </div>
 <br>
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
@@ -45,9 +45,9 @@ bash <(curl -L https://t.ly/tHxh)
 
 4. You will have to fork this git to deploy via Heroku.
   click to fork the git into your account
- Click [FORK](https://github.com/prince-rudh/Rudhra2.0/fork)
+ Click [FORK](https://github.com/ASWINMATRIX/evamwol-v4.0/fork)
 
-5. Now https://heroku.com/deploy?template=https://github.com/prince-rudh/Rudhra2.0 copy this url and change Prince-Rudh with your github username and click go<br>
+5. Now https://heroku.com/deploy?template=https://github.com/ASWINMATRIX/evamwol-v4.0 copy this url and change ASWINMATRIX with your github username and click go<br>
 
 ----
 
@@ -61,13 +61,13 @@ bash <(curl -L https://t.ly/tHxh)
 </p>
 
   <p align="center">
-  <a href="httsp://github.com/prince-rudh/Rudhra2.0">
-    <img src="https://img.shields.io/github/repo-size/prince-rudh/Rudhra2.0?color=lime&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/ASWINMATRIX/evamwol-v4.0">
+    <img src="https://img.shields.io/github/repo-size/ASWINMATRIX/evamwol-v4.0?color=lime&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/prince-rudh/followers"><img title="Followers" src="https://img.shields.io/github/followers/PrinceRudh?color=lime&style=flat-square"></a>
-<a href="https://github.com/prince-rudh/Rudhra2.0/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/prince-rudh/Rudhra2.0?color=lime&style=flat-square"></a>
-<a href="https://github.com/prince-rudh/Rudhra2.0/network/members"><img title="Forks" src="https://img.shields.io/github/forks/prince-rudh/Rudhra2.0?color=lime&style=flat-square"></a>
-<a href="https://github.com/prince-rudh/Rudhra2.0/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/prince-rudh/Rudhra2.0?label=Watchers&color=lime&style=flat-square"></a>
+<a href="https://github.com/ASWINMATRIX/followers"><img title="Followers" src="https://img.shields.io/github/followers/PrinceRudh?color=lime&style=flat-square"></a>
+<a href="https://github.com/ASWINMATRIX/evamwol-v4.0/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ASWINMATRIX/evamwol-v4.0?color=lime&style=flat-square"></a>
+<a href="https://github.com/ASWINMATRIX/evamwol-v4.0/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ASWINMATRIX/evamwol-v4.0?color=lime&style=flat-square"></a>
+<a href="https://github.com/ASWINMATRIX/evamwol-v4.0/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ASWINMATRIX/evamwol-v4.0?label=Watchers&color=lime&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-lime.svg"</a>
 </p>
 
@@ -86,7 +86,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/prince-rudh/Rudhra2.0
+$ git clone https://github.com/ASWINMATRIX/evamwol-v4.0
 $ cd Rudhra
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -96,7 +96,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/prince-rudh/Rudhra2.0
+$ git clone https://github.com/ASWINMATRIX/evamwol-v4.0
 $ cd Rudhra
 $ chmod +x *
 $ npm i
@@ -117,9 +117,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developer
   <div align="center">
     
-  [![`Prince-Rudh`](https://github.com/prince-rudh.png?size=200)](https://github.com/prince-rudh)
+  [![`ASWINMATRIX`](https://github.com/ASWINMATRIX.png?size=200)](https://github.com/ASWINMATRIX)
 
-[`Prince-Rudh`](https://github.com/prince-rudh)  
+[`ASWINMATRIX`](https://github.com/ASWINMATRIX)  
 Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
   </div>
     
@@ -130,4 +130,14 @@ This project is protected by `GNU General Public Licence v3.0` license.
 
 ### Disclaimer
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
+
+
+
+
+
+
+
+
+
+
 
